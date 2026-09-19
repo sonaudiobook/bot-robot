@@ -1,0 +1,22 @@
+{
+  "name": "Bot el Robot",
+  "short_name": "Bot",
+  "start_url": "/bot-robot/index.html",
+  "scope": "/bot-robot/",
+  "display": "standalone",
+  "background_color": "#323232",
+  "theme_color": "#323232",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/bot-robot/files/extfile/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/bot-robot/files/extfile/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
